@@ -1,0 +1,34 @@
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.exe
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.deps.json
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.runtimeconfig.json
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.pdb
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.GenerateResource.cache
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.AssemblyInfo.cs
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\refint\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.pdb
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.genruntimeconfig.cache
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\ref\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\Fall Semester\C#II\week2\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.TestClassForm.resources
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.TestClassForm.resources
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.GenerateResource.cache
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.AssemblyInfo.cs
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\refint\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.pdb
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.exe
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.deps.json
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.runtimeconfig.json
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.pdb
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.genruntimeconfig.cache
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\ref\RegistrationSystem.dll
