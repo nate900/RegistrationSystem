@@ -44,7 +44,7 @@ namespace RegistrationSystem.BusinessClasses
 
         override public string ToString()
         {
-            return "Street : " + Street + ", City : " + City + ", State : " + State + ", Zip code : " + Zip;
+            return "Street : " + Street + ", City : " + City + ", State : " + State + ", Zip code : " + Zip + "\n";
         }
 
         public void display()

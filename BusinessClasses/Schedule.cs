@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/***********************************************************
+*   Josiah Martin
+*   Lab #2
+*   September 11, 2022
+*   I did write this code myself...
+***********************************************************/
+
 namespace RegistrationSystem.BusinessClasses
 {
     public class Schedule

@@ -32,3 +32,6 @@ C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\
 C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\RegistrationSystem.pdb
 C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.genruntimeconfig.cache
 C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\ref\RegistrationSystem.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\josia\OneDrive\Desktop\RegistrationSystem\RegistrationSystem\obj\Debug\net6.0-windows\RegistrationSystem.csproj.CopyComplete

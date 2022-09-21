@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "amLcfxl9KFa45PKEQ28maYL9/7d2hCXQJUfNiryrPnVBik6swAZI9kP8dv8eLQv8Tr68y41on5woULcCYZOxfg==",
+  "dgSpecHash": "u7x/tyPKKt0sdW35I0NFgJle+0G+nR1ndeG32UcZax0sz9gTnMFz0794UWQKsh4L7FoFxdwm7biW/PasXfBzRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\josia\\OneDrive\\Desktop\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
