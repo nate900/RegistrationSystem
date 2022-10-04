@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -102,6 +102,8 @@ namespace RegistrationSystem.BusinessClasses
             {
                 OleDbConnection2.Close();
             }
+            // a method that return all the student schedule
+            getSchedule();
         }
 
         // UpdateDB method
@@ -185,6 +187,36 @@ namespace RegistrationSystem.BusinessClasses
             finally
             {
                 OleDbConnection2.Close();
+            }
+        }
+        
+        public void getSchedule(){
+            cmd = "SELECT crn FROM StudentSchedule WHERE StudentID = "+ id +"";
+            int crn;
+            OleDbDataAdapter.SelectCommand.CommandText = cmd;
+            OleDbDataAdapter.SelectCommand.Connection = OleDbConnection;
+            System.Diagnostics.Debug.WriteLine(cmd);
+
+            try
+            {
+                OleDbConnection.Open();
+                System.Data.OleDb.OleDbDataReader dr = OleDbDataAdapter.SelectCommand.ExecuteReader();
+                Section s1;
+                while (dr.Read())
+                {
+                    s1 = new Section();
+                    crn = dr.GetInt32(0);
+                    s1.SelectDB(crn);
+                    schedule.add(s1);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine(ex.ToString());
+            }
+            finally {
+                OleDbConnection.Close();
             }
         }
 
